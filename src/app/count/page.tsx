@@ -1,4 +1,4 @@
-import { title } from "process";
+
 import Counter from "./count";
 
 export const metadata = {
